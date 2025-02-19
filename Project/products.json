@@ -1,0 +1,242 @@
+[
+  {
+    "productName": "Chocolate Crunchy Bites",
+    "productType": "Candy",
+    "manufacturer": "SnackWorld",
+    "qnt": 100,
+    "price": 2.49,
+    "description": "Crunchy chocolate-coated bites"
+  },
+  {
+    "productName": "Caramel Delight Cubes",
+    "productType": "Candy",
+    "manufacturer": "SnackWorld",
+    "qnt": 120,
+    "price": 2.99,
+    "description": "Rich caramel cubes"
+  },
+  {
+    "productName": "Salted Pretzel Sticks",
+    "productType": "Snack",
+    "manufacturer": "SnackWorld",
+    "qnt": 80,
+    "price": 1.99,
+    "description": "Classic salted pretzels"
+  },
+  {
+    "productName": "Cheese Burst Chips",
+    "productType": "Snack",
+    "manufacturer": "SnackWorld",
+    "qnt": 150,
+    "price": 2.49,
+    "description": "Cheesy flavored potato chips"
+  },
+  {
+    "productName": "Spicy Corn Crackers",
+    "productType": "Snack",
+    "manufacturer": "SnackWorld",
+    "qnt": 90,
+    "price": 1.79,
+    "description": "Crispy and spicy corn crackers"
+  },
+  {
+    "productName": "Iced Tea Lemon Blast",
+    "productType": "Drink",
+    "manufacturer": "SnackWorld",
+    "qnt": 50,
+    "price": 1.99,
+    "description": "Refreshing lemon iced tea"
+  },
+  {
+    "productName": "Soda Berry Spark",
+    "productType": "Drink",
+    "manufacturer": "SnackWorld",
+    "qnt": 60,
+    "price": 2.29,
+    "description": "Bubbly soda with berry flavor"
+  },
+  {
+    "productName": "Gummy Rainbow Bears",
+    "productType": "Candy",
+    "manufacturer": "SweetHeaven",
+    "qnt": 200,
+    "price": 3.99,
+    "description": "Fruity gummy bears in rainbow colors"
+  },
+  {
+    "productName": "Mint Melts",
+    "productType": "Candy",
+    "manufacturer": "SweetHeaven",
+    "qnt": 150,
+    "price": 1.79,
+    "description": "Cool and refreshing mint candies"
+  },
+  {
+    "productName": "Chocolate Almond Bars",
+    "productType": "Snack",
+    "manufacturer": "SweetHeaven",
+    "qnt": 100,
+    "price": 2.99,
+    "description": "Rich chocolate bars with almonds"
+  },
+  {
+    "productName": "Honey Glazed Popcorn",
+    "productType": "Snack",
+    "manufacturer": "SweetHeaven",
+    "qnt": 120,
+    "price": 2.49,
+    "description": "Popcorn with a honey glaze"
+  },
+  {
+    "productName": "Smooth Mango Bliss",
+    "productType": "Drink",
+    "manufacturer": "SweetHeaven",
+    "qnt": 60,
+    "price": 2.99,
+    "description": "Smooth mango-flavored drink"
+  },
+  {
+    "productName": "Sparkling Citrus Punch",
+    "productType": "Drink",
+    "manufacturer": "ThirstQuenchers",
+    "qnt": 80,
+    "price": 2.49,
+    "description": "Citrus-flavored sparkling drink"
+  },
+  {
+    "productName": "Cool Blue Lemonade",
+    "productType": "Drink",
+    "manufacturer": "ThirstQuenchers",
+    "qnt": 100,
+    "price": 2.29,
+    "description": "Refreshing blue lemonade"
+  },
+  {
+    "productName": "Barbecue Potato Chips",
+    "productType": "Snack",
+    "manufacturer": "ThirstQuenchers",
+    "qnt": 200,
+    "price": 2.79,
+    "description": "Crispy chips with BBQ flavor"
+  },
+  {
+    "productName": "Crispy Ranch Tortillas",
+    "productType": "Snack",
+    "manufacturer": "ThirstQuenchers",
+    "qnt": 150,
+    "price": 2.99,
+    "description": "Tortilla chips with ranch seasoning"
+  },
+  {
+    "productName": "Wild Berry Fruit Chews",
+    "productType": "Candy",
+    "manufacturer": "Nature\u2019s Bounty",
+    "qnt": 250,
+    "price": 3.49,
+    "description": "Chewy candies with wild berry flavor"
+  },
+  {
+    "productName": "Tropical Coconut Squares",
+    "productType": "Candy",
+    "manufacturer": "Nature\u2019s Bounty",
+    "qnt": 120,
+    "price": 2.99,
+    "description": "Coconut-flavored candy squares"
+  },
+  {
+    "productName": "Nut \u0026 Seed Trail Mix",
+    "productType": "Snack",
+    "manufacturer": "Nature\u2019s Bounty",
+    "qnt": 88,
+    "price": 3.49,
+    "description": "Healthy trail mix with nuts and seeds"
+  },
+  {
+    "productName": "Maple Cranberry Bars",
+    "productType": "Snack",
+    "manufacturer": "Nature\u2019s Bounty",
+    "qnt": 110,
+    "price": 3.99,
+    "description": "Cranberry and maple-flavored snack bars"
+  },
+  {
+    "productName": "Herbal Green Tea",
+    "productType": "Drink",
+    "manufacturer": "Nature\u2019s Bounty",
+    "qnt": 70,
+    "price": 2.49,
+    "description": "Soothing green tea with herbal infusion"
+  },
+  {
+    "productName": "Fizzy Cola Gummies",
+    "productType": "Candy",
+    "manufacturer": "CandyCraze",
+    "qnt": 300,
+    "price": 2.99,
+    "description": "Fizzy gummies with cola flavor"
+  },
+  {
+    "productName": "Sour Watermelon Rings",
+    "productType": "Candy",
+    "manufacturer": "CandyCraze",
+    "qnt": 200,
+    "price": 2.49,
+    "description": "Sour gummy rings with watermelon flavor"
+  },
+  {
+    "productName": "Strawberry Lollipops",
+    "productType": "Candy",
+    "manufacturer": "CandyCraze",
+    "qnt": 150,
+    "price": 1.99,
+    "description": "Classic strawberry-flavored lollipops"
+  },
+  {
+    "productName": "Savory Cheese Crackers",
+    "productType": "Snack",
+    "manufacturer": "SnackCo",
+    "qnt": 180,
+    "price": 3.29,
+    "description": "Savory crackers with cheese flavor"
+  },
+  {
+    "productName": "Spicy Hot Nacho Chips",
+    "productType": "Snack",
+    "manufacturer": "SnackCo",
+    "qnt": 150,
+    "price": 3.49,
+    "description": "Hot and spicy nacho chips"
+  },
+  {
+    "productName": "Classic Butter Popcorn",
+    "productType": "Snack",
+    "manufacturer": "SnackCo",
+    "qnt": 200,
+    "price": 2.29,
+    "description": "Classic movie-style butter popcorn"
+  },
+  {
+    "productName": "Classic Cola",
+    "productType": "Drink",
+    "manufacturer": "DrinkMasters",
+    "qnt": 400,
+    "price": 1.99,
+    "description": "Classic cola-flavored drink"
+  },
+  {
+    "productName": "Vanilla Root Beer",
+    "productType": "Drink",
+    "manufacturer": "DrinkMasters",
+    "qnt": 250,
+    "price": 2.49,
+    "description": "Root beer with a hint of vanilla"
+  },
+  {
+    "productName": "Tropical Guava Juice",
+    "productType": "Drink",
+    "manufacturer": "DrinkMasters",
+    "qnt": 300,
+    "price": 2.99,
+    "description": "Juice made from tropical guavas"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "userName": "janesmith",
+    "email": "janesmith@example.com",
+    "balance": 10,
+    "basket": [],
+    "favourites": [],
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "password": "password456"
+  },
+  {
+    "userName": "mikejohnson",
+    "email": "mikejohnson@example.com",
+    "balance": 13,
+    "basket": [],
+    "favourites": [],
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "password": "password789"
+  },
+  {
+    "userName": "johnsmith",
+    "email": "johnsmith@example.com",
+    "balance": 33.019999999999996,
+    "basket": [
+      {
+        "productName": "Wild Berry Fruit Chews",
+        "productType": "Candy",
+        "manufacturer": "Nature\u2019s Bounty",
+        "qnt": 1,
+        "price": 3.49,
+        "description": "Chewy candies with wild berry flavor"
+      },
+      {
+        "productName": "Chocolate Crunchy Bites",
+        "productType": "Candy",
+        "manufacturer": "SnackWorld",
+        "qnt": 1,
+        "price": 2.49,
+        "description": "Crunchy chocolate-coated bites"
+      }
+    ],
+    "favourites": [],
+    "firstName": "John",
+    "lastName": "Smith",
+    "password": "john2006"
+  }
+]
